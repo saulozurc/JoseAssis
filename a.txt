@@ -1,3 +1,7 @@
 Teste
 Entendendo o HEAD
+<<<<<<< HEAD
 Esta linha foi modificada no ramo Main
+=======
+Adicionando uma linha no ramo, branch, Teste
+>>>>>>> teste
